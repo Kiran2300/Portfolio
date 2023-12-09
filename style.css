@@ -1,0 +1,185 @@
+ body {
+     background-color: #162447;
+     color: #ffffff;
+ }
+
+ .navbar {
+     background-color: #021d03;
+ }
+
+ .jumbotron {
+     background-color: #1f4068;
+     color: #ffffff;
+ }
+
+ .jumbotron a {
+     color: #ffffff;
+ }
+
+ .jumbotron a:hover {
+     color: #bbe1fa;
+ }
+
+ .container {
+     background-color: #80c56e;
+     color: #010400;
+     padding: 20px;
+     border-radius: 10px;
+ }
+
+ .container a {
+     color: #bbe1fa;
+ }
+
+ .container a:hover {
+     color: #ffffff;
+ }
+
+ .bg-dark {
+     background-color: #0f3057;
+     color: #ffffff;
+ }
+
+ .bg-dark a {
+     color: #bbe1fa;
+ }
+
+ .bg-dark a:hover {
+     color: #ffffff;
+ }
+
+ footer {
+     background-color: #021d03;
+ }
+
+ /*******************************************
+            PORTFOLIO.HTML
+ ********************************************/
+
+ .container {
+     background-color: #80c56e;
+     color: #010400;
+     padding: 20px;
+     border-radius: 10px;
+ }
+
+ .portfolio-item {
+     margin-bottom: 30px;
+ }
+
+ .portfolio-item img {
+     max-width: 100%;
+     height: auto;
+     border-radius: 10px;
+ }
+
+ .bg-dark {
+     background-color: #0f3057;
+     color: #ffffff;
+ }
+
+ .bg-dark a {
+     color: #bbe1fa;
+ }
+
+ .bg-dark a:hover {
+     color: #ffffff;
+ }
+
+ .navbar-nav a {
+    color: rgb(197, 209, 37);
+    font-weight: bold;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(3, 44, 15);
+    margin: 10px;
+}
+
+.navbar-nav a:hover {
+    color: #ffffff;
+    background-color: #1f4068;
+}
+
+.portfolio-img {
+    height: 300px;
+    object-fit: cover;
+}
+
+
+ /*******************************************
+            CONTACT.HTML
+ ********************************************/
+
+
+   .container {
+       background-color: #80c56e;
+       color: #010400;
+       padding: 20px;
+       border-radius: 10px;
+       margin-top: 20px;
+   }
+
+   .form-group {
+       margin-bottom: 20px;
+   }
+
+   .bg-dark {
+       background-color: #0f3057;
+       color: #ffffff;
+   }
+
+   .bg-dark a {
+       color: #bbe1fa;
+   }
+
+   .bg-dark a:hover {
+       color: #ffffff;
+   }
+
+
+
+ /*******************************************
+            INDEX.HTML
+ ********************************************/
+
+ .jumbotron {
+     background-color: #1f4068;
+     color: #ffffff;
+ }
+
+ .jumbotron a {
+     color: #ffffff;
+ }
+
+ .jumbotron a:hover {
+     color: #bbe1fa;
+ }
+
+ .container {
+     background-color: #80c56e;
+     color: #010400;
+     padding: 20px;
+     border-radius: 10px;
+     margin-top: 20px;
+ }
+
+ .btn-primary {
+     background-color: #3f72af;
+     border-color: #3f72af;
+ }
+
+ .btn-primary:hover {
+     background-color: #1f4068;
+     border-color: #1f4068;
+ }
+
+ .card {
+     background-color: #80c56e;
+     color: #010400;
+ }
+
+ .card:hover {
+     background-color: #3f72af;
+     color: #ffffff;
+ }
